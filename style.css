@@ -1,0 +1,14 @@
+.stopwatchdiv{
+    margin:0 auto;
+    width: 60%;
+    box-shadow: 3px 3px 10px grey;
+    /* height:20vh; */
+    text-align: center;
+}
+.stopwatchdiv button{
+    padding: 1em 3em;
+}
+body{
+    display:flex;
+    align-items: center;
+}
